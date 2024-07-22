@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-Levon
+## About Me
+My name is **Levon**, and I graduated from **Kapan N3 school**.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
